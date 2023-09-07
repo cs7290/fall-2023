@@ -30,12 +30,14 @@ Introduction to [Observable Plot](https://observablehq.com/plot/)
   * This article builds on the theory, providing Mike Bostock's perspective, as well as his goals for D3.
   * [Visualization publication dataset](https://observablehq.com/@observablehq/vispubdata)
   * [D3](https://observablehq.com/@d3) -- observable collection
-* [D3 or D3.js](https://github.com/d3/d3) -- github
+* [D3 (D3.js)](https://github.com/d3/d3) -- github
   > D3 (or D3.js) is a free, open-source JavaScript library for visualizing data. 
   Its low-level approach built on web standards offers unparalleled flexibility in authoring dynamic, 
   data-driven graphics. 
 
 ## basic elements
+
+This is mostly just a summary of the API reference docs
 
 * [Plot](https://observablehq.com/plot) Main page links to key sections in the API reference docs
   * [Plot](https://observablehq.com/plot/what-is-plot) API reference docs
