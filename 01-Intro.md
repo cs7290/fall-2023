@@ -26,7 +26,7 @@ Welcome to CS 7250 (the course formerly known as CS 7290)
   * Data visualization vs [Infographics](https://en.wikipedia.org/wiki/Infographic)
   * If a picture is worth a thousand words, then what's an interactive visualization worth?
 * Web technologies
-  * [Tableau](https://www.tableau.com/products/public), PowerBI, Plotly/Dash](https://dash.gallery/Portal/)
+  * [Tableau](https://www.tableau.com/products/public), PowerBI, [Plotly/Dash](https://dash.gallery/Portal/)
   * Geospatial: Google Maps, Mapbox, [MapLibre](https://maplibre.org/), [deck.gl](https://deck.gl/)
   * [Python Data Viz](https://www.anaconda.com/blog/python-data-visualization-2018-why-so-many-libraries)
 * Observable
