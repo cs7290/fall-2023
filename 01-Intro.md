@@ -55,5 +55,3 @@ Welcome to CS 7250 (the course formerly known as CS 7290)
 ## Plot
 
 * [plot.md](plot.md)
-
-## Assignment

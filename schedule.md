@@ -30,7 +30,7 @@
 |          | [Observable Plot: What is Plot?](https://observablehq.com/plot/what-is-plot) | 
 |          | [Observable Plot: Why Plot?](https://observablehq.com/plot/why-plot) |
 |          | [JavaScript in Observable](https://observablehq.com/collection/@observablehq/javascript-in-observable) -- collection |
-|          | [Observable's not JavaScript](https://observablehq.com/@ddv373/dynamic-data-visualization-csci373) (renamed: Observable JavaScript) |
+|          | [Observable's not JavaScript](https://observablehq.com/@observablehq/observable-javascript) (renamed: Observable JavaScript) |
 | 2-Theory | [Introducing d3-scale](https://medium.com/@mbostock/introducing-d3-scale-61980c51545f) (article) |
 |          | [Introduction to D3's scales](https://observablehq.com/@d3/introduction-to-d3s-scales) |
 |          | [Storytelling with Data](https://learning.oreilly.com/library/view/storytelling-with-data/9781119002253/) by Cole Knaflic (O'Reilly book) |
