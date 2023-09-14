@@ -22,6 +22,7 @@
 ## Observable
 
 * [Getting started with Observable](https://observablehq.com/collection/@educators-network/get-started-observable-for-education)
+* [Education discount](https://observablehq.com/@educators-network/contact-edu)
 * Verify accounts
 * Apply for the education discount
 
