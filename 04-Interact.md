@@ -28,7 +28,7 @@ The only way to learn this material is with practice!
 
 ## prototype
 
-* PMA project (last week)
+* PMA project (continued from last week)
 * NECS project (this week)
 
 ## interact
