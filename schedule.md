@@ -40,6 +40,7 @@
 |              | [Learn D3: Interaction](https://observablehq.com/@d3/learn-d3-interaction?collection=@d3/learn-d3) |
 |              | There's a link to a research paper by Ben Scheiderman |
 | 5-Dashboard  | [Dashboard/2](https://observablehq.com/@mbostock/dashboard/2)  |
+|              | [Interactive Plot Dashboard](https://observablehq.com/@ambassadors/interactive-plot-dashboard) |
 |              | TBD -- There's likely to be an update very soon                |
 | 6-Embed      | [Embedding](https://observablehq.com/@observablehq/embeds) | 
 |              | [Advanced Embedding and Downloading](https://observablehq.com/@observablehq/advanced-embeds?collection=@observablehq/embedding-notebooks) |
