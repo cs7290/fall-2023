@@ -36,7 +36,7 @@
 |          | [Storytelling with Data](https://learning.oreilly.com/library/view/storytelling-with-data/9781119002253/) by Cole Knaflic (O'Reilly book) |
 |          | [Reactive notebooks evolve](https://www.nature.com/articles/d41586-021-01174-w) (2021) -- Nature article |
 | 3-Prototype  | [NYT Graphics and D3 with Mike Bostock and Shan Carter](https://datastori.es/data-stories-22-nyt-graphics-and-d3-with-mike-bostock-and-shan-carter/) (podcast) |
-| 4-Interact   | [Introduction to Inputs](https://observablehq.com/plot/why-plot) | 
+| 4-Interact   | [Introduction to Inputs](https://observablehq.com/@observablehq/inputs) |
 |              | [Learn D3: Interaction](https://observablehq.com/@d3/learn-d3-interaction?collection=@d3/learn-d3) |
 |              | There's a link to a research paper by Ben Scheiderman |
 | 5-Dashboard  | [Dashboard/2](https://observablehq.com/@mbostock/dashboard/2)  |
