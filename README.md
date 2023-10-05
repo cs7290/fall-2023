@@ -2,6 +2,7 @@
 
 The class formerly known as DS 7290
 
+* [05-Dashboard](05-Dashboard.md) -- 5 Oct
 * [04-Interact](04-Interact.md) -- 28 Sep
 * [03-Prototype](03-Prototype.md) -- 21 Sep
 * [02-Theory](02-Theory.md) -- 14 Sep
