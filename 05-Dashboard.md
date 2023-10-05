@@ -53,3 +53,21 @@ Embedding demo (we'll look at it in detail next week)
 * [quakes](https://pbogden.github.io/quakes/)
 * static web page served from github-pages 
 * uses [bootstrap](http://getbootstrap.com)
+
+
+# PMA updates (added during class on 5 Oct)
+
+Stakeholder next week? -- No -- next week we put things in github pages sites
+
+* Notebooks discussed in class...
+  * https://observablehq.com/@class/hw04-hahehola 
+  * https://observablehq.com/d/18b08c576010735f -- Bridget and MK 
+* STORY
+  * Seasonal signal dominates
+  * Long-term downward trend on energy usage is evident on multi-year time scale
+  * Significant variation (values and data availability) between buildings and meters
+  * Outstanding questions...
+    * there are quite a few questions about what could be causing these various signals
+    * sustainability of the business -- revenue vs costs and long-term goals
+    * sometimes multiple meters for a building
+    * relationship to weather (TBD)
