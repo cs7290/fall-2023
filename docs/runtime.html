@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>iframe embed</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+  </head>
+  <body>
+    <div id="observablehq-viewof-order-e466e6e6"></div>
+    <div id="observablehq-chart-e466e6e6"></div>
+    <p>Credit: <a href="https://observablehq.com/@d3/bar-chart-transitions">Bar Chart Transitions by D3</a></p>
+
+  <script type="module">
+    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+    import define from "https://api.observablehq.com/@d3/bar-chart-transitions.js?v=3";
+    new Runtime().module(define, name => {
+      if (name === "viewof order") return new Inspector(document.querySelector("#observablehq-viewof-order-e466e6e6"));
+      if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-e466e6e6"));
+      return ["update","trigger"].includes(name);
+    });
+  </script>
+</body>
+</html>
