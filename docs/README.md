@@ -1,4 +1,4 @@
-# 06-embedding docs
+# 06-Embed/docs
 
 This directory is configured (in the repo settings) to be served with github pages
 here: [https://cs7290.github.io/fall-2023/](https://cs7290.github.io/fall-2023/)
