@@ -2,7 +2,7 @@
 
 ## Reading (read in advance for today)
 
-* [Embedding](https://observablehq.com/@observablehq/embeds) | 
+* [Embedding](https://observablehq.com/@observablehq/embeds)
 * [Advanced Embedding and Downloading](https://observablehq.com/@observablehq/advanced-embeds?collection=@observablehq/embedding-notebooks) 
 
 ## attribution
@@ -17,7 +17,5 @@ Reminder...
 
 ## github-pages demo
 
+* [https://cs7290.github.io/fall-2023/](https://cs7290.github.io/fall-2023/) -- the github-pages site
 * [docs](docs) -- the `docs` directory with source code (flat files)
-* [https://cs7290.github.io/fall-2023/](https://cs7290.github.io/fall-2023/)
-
-

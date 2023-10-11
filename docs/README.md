@@ -5,7 +5,8 @@
 * [Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_document) -- mdn
   * Note: You need to click the link in the right-hand menu bar -- it doesn't get there automatically
   * I've saved that demo into "./index.html"
-  * To view it locally in your browser...
+* The github pages site: [https://cs7290.github.io/fall-2023/](https://cs7290.github.io/fall-2023/)
+* To view it locally in your browser (better for development because it's instantaneous)...
 
 Start the local development server...
 ```
@@ -24,6 +25,7 @@ Then browse to: http://localhost:8000
   * creating elements dynamically with `document.createElement()`
   * responding to user interaction with `element.addEventListener()`
 * Start the server and browse to: http://localhost:8000/number-guessing-game.html
+* Or browse to 
 
 ## CSS Selectors
 
