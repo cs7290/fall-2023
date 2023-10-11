@@ -1,4 +1,7 @@
-# intro to html
+# 06-embedding docs
+
+This directory is configured (in the repo settings) to be served with github pages
+here: [https://cs7290.github.io/fall-2023/](https://cs7290.github.io/fall-2023/)
 
 ## minimal web page
 
@@ -57,8 +60,9 @@ Then browse to: http://localhost:8000
   * the iframe embed
     * github-pages: [https://cs7290.github.io/fall-2023/iframe.html](https://cs7290.github.io/fall-2023/iframe.html)
     * locally -- browse to: http://localhost:8000/iframe.html
-  * the runtime embed -- Browse to: http://localhost:8000/runtime.html
+  * the runtime embed
     * github-pages: [https://cs7290.github.io/fall-2023/runtime.html](https://cs7290.github.io/fall-2023/runtime.html)
+    * locally -- browse to: http://localhost:8000/runtime.html
   * Don't worry about "Runtime with React" -- that's for front-end developers
 
 ## quakes
