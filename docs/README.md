@@ -54,7 +54,13 @@ Then browse to: http://localhost:8000
   * [Embedding](https://observablehq.com/@observablehq/embeds?collection=@observablehq/embedding-notebooks) -- notebook
 * Demo...
   * the Observable notebook: [Bar chart transitions](https://observablehq.com/@d3/bar-chart-transitions)
-  * the iframe embed -- Browse to: http://localhost:8000/iframe.html
+  * the iframe embed
+    * github-pages: [https://cs7290.github.io/fall-2023/iframe.html](https://cs7290.github.io/fall-2023/iframe.html)
+    * locally -- browse to: http://localhost:8000/iframe.html
   * the runtime embed -- Browse to: http://localhost:8000/runtime.html
+    * github-pages: [https://cs7290.github.io/fall-2023/runtime.html](https://cs7290.github.io/fall-2023/runtime.html)
   * Don't worry about "Runtime with React" -- that's for front-end developers
-* One of my github-pages demos, which uses bootstrap: https://pbogden.github.io/quakes
+
+## quakes
+
+One of my github-pages demos, which uses bootstrap: https://pbogden.github.io/quakes
