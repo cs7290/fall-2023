@@ -1,12 +1,18 @@
 # 06-Embed/docs
 
+<<<<<<< HEAD
 This directory is configured (in the repo settings) to be served by github pages
 at this base URL: https://cs7290.github.io/fall-2023/
+=======
+This directory is configured (in the repo settings) to be served with github pages
+here: [https://cs7290.github.io/fall-2023/](https://cs7290.github.io/fall-2023/)
+>>>>>>> 486a6646648c26a2de17bd20703df93182adb0ed
 
 ## minimal web page
 
 * [Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_document) -- mdn
   * Note: You need to click the link in the right-hand menu bar -- it doesn't get there automatically
+<<<<<<< HEAD
   * I've saved this demo in the local file `./index.html`
   * By convention, `index.html` is the default file for any web server -- if it's there, it'll be served
   * And the `.docs` directory is default directory for github pages for this repo.
@@ -54,6 +60,37 @@ You've been warned;-)
   Welcome to the world wide web;-)
 * [Mozilla Development Network (mdn)](http://developer.mozilla.org) is your friend, and the authoritative 
   resource to help you figure things out.
+=======
+  * I've saved that demo into "./index.html"
+* The github pages site: [https://cs7290.github.io/fall-2023/](https://cs7290.github.io/fall-2023/)
+* To view it locally in your browser (better for development because it's instantaneous)...
+
+Start the local development server...
+```
+python -m http.server
+```
+Then browse to: http://localhost:8000
+
+## number-guessing game
+
+* This is an interactive game built with JavaScript
+  * [A first splash](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
+  * It's a simple application but the source code might seem a little daunting
+  * [source code](https://github.com/mdn/learning-area/blob/main/javascript/introduction-to-js-1/first-splash/number-guessing-game.html)
+  * It's worth glancing at the source code to get an idea of how things work
+  * selecting elements with `document.querySelector()`, adding event listeners
+  * creating elements dynamically with `document.createElement()`
+  * responding to user interaction with `element.addEventListener()`
+* Start the server and browse to: http://localhost:8000/number-guessing-game.html
+* Or browse to 
+
+## CSS Selectors
+
+* [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors#types_of_selectors) (mdn)
+* the most common: 
+  * type (element, e.g., div, h1, etc.) -- no prefix
+  * class (element's class attribute) -- uses the "." prefix
+>>>>>>> 486a6646648c26a2de17bd20703df93182adb0ed
 
 ## bootstrap 5
 
