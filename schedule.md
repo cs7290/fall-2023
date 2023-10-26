@@ -46,7 +46,7 @@
 |              | [Advanced Embedding and Downloading](https://observablehq.com/@observablehq/advanced-embeds?collection=@observablehq/embedding-notebooks) |
 | 7-Geo        | [Plot: Geo](https://observablehq.com/plot/marks/geo)
 |              | [The Toolmaker's Guide](https://vimeo.com/106198518) -- FOSS4G keynote 2014 |
-| 8-Join       | [Learn D3: Joins](https://observablehq.com/@d3/learn-d3-joins?collection=@d3/learn-d3)
+| 8-Select     | [Learn D3: Joins](https://observablehq.com/@d3/learn-d3-joins?collection=@d3/learn-d3)
 | 9-Transition*| [Learn D3: Animation](https://observablehq.com/@d3/learn-d3-animation?collection=@d3/learn-d3)  |
 |              | [Object constancy](https://bost.ocks.org/mike/constancy/)
 |              | [Awaiting visibility](https://observablehq.com/@observablehq/visibility)
