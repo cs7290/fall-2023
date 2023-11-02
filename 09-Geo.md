@@ -19,7 +19,7 @@
   * individual
 * apoth
   * stakeholder based variation on the pma app
-  * [project proposal](../homeworks/projects/CS7250\ Project\ Brief.pdf)
+  * [project proposal](.../homeworks/projects/CS7250\ Project\ Brief.pdf)
   * team of 3
 * 11 others
 
@@ -52,5 +52,5 @@ both options have stakeholders
 * Slippy maps
   * [Hello, Leaflet](https://observablehq.com/@observablehq/hello-leaflet)
   * [Hello, MapLibre](https://observablehq.com/@pbogden/hello-maplibre)
-  * [Hello, mapbox gl](https://observablehq.com/@observablehq/hello-mapbox-gl
+  * [Hello, mapbox gl](https://observablehq.com/@observablehq/hello-mapbox-gl)
   * [deck.gl playground](https://observablehq.com/@pessimistress/deck-gl-playground)
