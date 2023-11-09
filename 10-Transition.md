@@ -33,7 +33,7 @@ This will be a working session -- class discussion followed by small groups.
 
 * Review poster content
 * Define the story and the audience
-* Work on graphic that does a better job at telling the story
+* Work on exploratory dashboard for the stakeholder
 
 ### projects
 
