@@ -2,6 +2,7 @@
 
 The class formerly known as DS 7290
 
+* [10-Transition](10-Transition.md) -- 7 Nov
 * [09-Geo](09-Geo.md) -- 2 Nov
 * [08-Select](08-Select.md) -- 26 Oct
 * [07-Stakeholders](07-Stakeholders.md) -- 19 Oct
