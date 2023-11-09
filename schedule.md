@@ -14,8 +14,8 @@
 | Nov 2  | 9-Transition* | Statistical graphics    | Object constancy        | D3 & CSS transitions |
 | Nov 9  | 10-Animate*   | Custom graphics         | Advanced techniques     | Generators and Promises |
 | Nov 16 | 11-Brush*     | Focus + context         | Zooming and brushing    | d3-zoom, d3-brush |
-| Nov 23 | ---           | Thanksgving  | No class | --- |
-| Nov 30 | 12-Algo*      | Visualizing altorithms  | Case studies            | Advanced D3 |
+| Nov 23 | ---           | Thanksgiving  | No class | --- |
+| Nov 30 | 12-Algo*      | Visualizing algorithms  | Case studies            | Advanced D3 |
 | Dec 7  | 13-Projects   | Presentations | Student projects | --- |
 | Dec 14 | No class      | Finals week | ---   | --- |
 
