@@ -23,9 +23,10 @@
   * team of 3
 * 11 others
 
-## nces -- in-class
+## necs -- in-class
 
-H this will be a focus for in-class activities
+This will be a focus for in-class activities
+
 * [nces-access](https://observablehq.com/@class/necs-access)
 * there are a couple forks of this repo -- we'll build on those
 
@@ -39,7 +40,7 @@ both options have stakeholders
   * aggregating data, that can be used to populate a first order digital visualization of determined paths.  
 * pma augmentation
   * add cost and patronage data
-  * add environmental-info context
+  * add [environmental-info](https://observablehq.com/@observablehq/noaa-weather-data-by-major-u-s-city) context
   * clean up and spruce up
 
 ## geo
