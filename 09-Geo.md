@@ -6,6 +6,7 @@
 * pma prototypes: http://cs7290.github.com/pma
   * These are consolidated results as of 1 Nov 2023
   * TODO: Decide how to follow up with the stakeholder
+* [pma access](https://observablehq.com/@class/pma-access) -- notebook
 
 ## projects
 
